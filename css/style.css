@@ -4,3 +4,11 @@ body{
     color: greenyellow;
 }
 
+ul{
+    list-style: none;
+    text-align: left;
+}
+
+li{
+    margin-bottom: .5rem;
+}
