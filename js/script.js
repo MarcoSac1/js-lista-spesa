@@ -1,0 +1,1 @@
+const spesaArray =[pane, pasta, frutta, cocacola, noci, carne, insalata, shampo];
