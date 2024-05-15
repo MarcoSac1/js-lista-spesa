@@ -8,5 +8,9 @@ Data una lista della spesa, stampare sulla pagina (anche brutalmente, basta che 
 <!-- 
 - creo un array con al interno gli elementi della lista della spesa 
 - verifico che sono stati inseriti correttamente al suo interno 
-- con un ciclo 'while' li stampo nel 'DOM' 
+- dichiaro una variabile index = 0
+- creo un ciclo 'while'
+- creo un elemento al interno del 'DOM'
+- richiamo l'elemento creato nel 'DOM'
+- li stampo nel 'DOM' gli elementi del 'array'
 -->
