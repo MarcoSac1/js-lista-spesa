@@ -8,7 +8,7 @@ const ulEL = document.querySelector('ul');
 let index = 0;
 
 // creo un ciclo while
-while ( index < spesaArray.length){
+while ( index < spesaArray.length -1){
     index++;
 
     // creo un elemento al interno del DOM
@@ -21,6 +21,6 @@ while ( index < spesaArray.length){
     liEl.append(spesaArray[index]);
     
     // stampo nel DOM gli elementi del Array
-    console.log( spesaArray[index - 1]);
     
+    console.log( spesaArray[index]);
 }
